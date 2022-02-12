@@ -1,0 +1,15 @@
+Print "Hello, World!"
+For two numbers - add, subtract, multiply, divide, and modulus
+Check all type of operators.
+What is Type Casting?
+
+
+#include <stdio.h>
+
+int main(){
+
+    (2==2)? puts("Yes!") : puts("NOOOOO!!!!!!!!");
+    (2!=2)? puts("Yes!") : puts("NOOOOO!!!!!!!!");
+
+    return 0;
+}
