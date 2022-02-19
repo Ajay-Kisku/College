@@ -3,7 +3,7 @@
 
 void main(){
 	printf("\nQuestion No. 4 : WAP to find the area of a triangle. \n");
-    printf("======================================================\n");
+    	printf("======================================================\n");
 
 	float side1,side2,side3,semiPerimeter,area;
 
