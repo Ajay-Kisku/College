@@ -1,0 +1,54 @@
+incomplete = 10, 14, 18,
+
+1. What is a function calling and its use.
+
+2. What is argument passing and its types and also discuss the difference between each type.
+
+3. What is an array, its decleration, initilizatino and its advatages and disadvatages in programming.
+
+4. Difference between 1D and 2D arrays.
+
+5. What is structure and its uses.
+
+6. WAP to create a function for swapping two numbers.
+
+7. WAP to add two arrays.
+
+8. WAP to find the factorial of any number without recursion.
+
+9. WAP to print any value of array.
+
+10. WAP to print nth prime number.
+
+11. WAP to print count of any digit.
+EX :  123 count 3
+      45765 count 5
+
+12. WAP to check number ? perfect or not.
+
+13. WAP to print following pattern :
+
+    D D D D
+    C C C
+    B B
+    A
+
+14. WAP to print all prime numbers in accesending order.
+Ex : if number 10 then
+     2, 3, 5, 7, are the primes in accesending.
+
+15. WAP to insert and remove any number in an array.
+
+16. WAP to find min and max value of an array.
+
+17. WAP to find count in any string.
+Ex : CPDS  count 4
+     Hello count 5
+
+18. WAP to check if a string is palindrome or not.
+
+19. WAP to create a function for factorial.
+
+20. WAP to use maximum concepts in a single program and add statement too.
+
+Good Luck!
